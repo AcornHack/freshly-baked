@@ -1,0 +1,17 @@
+<style>
+body {background-color:lightcyan;}
+</style>
+<background: gradient(orange, red);
+<div class="container">
+<div class="css3-notification">
+    <img src= "http://images.clipartpanda.com/cupcake-clipart-pink-cupcake-md.png">
+</div>
+</div>
+<div class="selector">
+  <button type="button">Home</button>
+  <button type="button">Back</button>
+  <button type="button">Customise cakes</button>
+  <button type="button">store</button>
+  <button type="button">basket</button>
+</div>
+<text align=center><h1>Dork Cakes</h1>
