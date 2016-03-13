@@ -1,0 +1,13 @@
+.image-wrapper {
+  width: 100%;
+  text-align: center;
+}
+
+.image-wrapper img {
+  height: 170px;
+  margin-top: 20px;
+}
+
+.centered-text {
+  text-align: center;
+}
